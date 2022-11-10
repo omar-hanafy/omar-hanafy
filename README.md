@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://omarkhaled.web.app" target="blank"><img align="center" src="./myIcon.png" alt="omar-hanafy" height="25" width="30" /></a>
+<a href="https://omarkhaled.web.app" target="blank"><img align="center" src="./myIcon.png" alt="omar-hanafy" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/omar-hanafy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-hanafy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12633462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12633462" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/omar-hanafy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omar-hanafy" height="30" width="40" /></a>
