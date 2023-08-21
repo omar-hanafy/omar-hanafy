@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/) and Python.
 - I'm passionate about open source software and the opportunity to contribute and learn.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-hanafy&label=Profile%20views&color=0e75b6&style=flat" alt="omar-hanafy" /> </p>
+
 ### More About Me:
 
 <p align="left">
@@ -19,29 +21,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-hanafy&" alt="omar-hanafy" /></p>
 
-### Repos:
-
-<a href="https://github.com/omar-hanafy/flutter_telr_payment">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=omar-hanafy&repo=flutter_telr_payment&theme=buefy" />
-</a>
-
-<a href="https://github.com/omar-hanafy/flutter_helper_utils">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=omar-hanafy&repo=flutter_helper_utils&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://github.com/omar-hanafy/nft-icons">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=omar-hanafy&repo=nft-icons&theme=buefy" />
-</a>
-
-<a href="https://github.com/omar-hanafy/Data-Structures-And-Algorithms">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=omar-hanafy&repo=Data-Structures-And-Algorithms&theme=buefy" />
-</a>
-
-<br />
-<br />
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/omar.hanafy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="omar.hanafy" /></a></p><br><br>
