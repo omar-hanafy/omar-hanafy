@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Mobile App Developer 👨🏽‍💻</h3>
 
 - 🔭 I’m currently working At [MeetNTrain](https://www.meetntrain.com).
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/) and Python.
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/) and Swift.
 - I'm passionate about open source software and the opportunity to contribute and learn.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-hanafy&label=Profile%20views&color=0e75b6&style=flat" alt="omar-hanafy" /> </p>
