@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+### Hi there 👋   [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+
+
 <h3 align="center">A Passionate Mobile App Developer 👨🏽‍💻</h3>
 
 - 🔭 I’m currently working At [MeetNTrain](https://www.meetntrain.com).
