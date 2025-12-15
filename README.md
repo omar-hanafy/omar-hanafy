@@ -4,7 +4,7 @@
 
 <h3 align="center">A Passionate Mobile App Developer 👨🏽‍💻</h3>
 
-- 🔭 I’m currently working At [MeetNTrain](https://www.meetntrain.com).
+- 🔭 I’m currently working At [MeetNTrain](https://info.meetntrain.com).
 - 🌱 I’m currently learning Swift.
 - I'm passionate about open-source software and the opportunity to contribute and learn.
 
