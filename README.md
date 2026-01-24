@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Hanafy</h1>
-<h3 align="center">Senior Flutter Architect
+<h3 align="center">Senior Flutter Architect </h3>
 
 <p align="center">
 Building scalable Flutter systems (50k+ users), schema‑driven UI, offline‑aware flows, and developer tooling.
